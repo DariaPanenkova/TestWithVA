@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Second commit test");
         System.out.println("Снова мержим");
         System.out.println("Commit problem test");
+
+        System.out.println("Изменение Panenkova");
     }
 }
