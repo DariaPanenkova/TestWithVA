@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Commit problem test");
 
         System.out.println("Изменение Panenkova");
-
+        System.out.println("Моя ветка");
         System.out.println("Проверяем ветки");
     }
 }
